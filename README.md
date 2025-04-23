@@ -1,7 +1,7 @@
 # object-class-intersection
-C++ program that creates a Point/Rectangle class, taking 2 objects of the latter class to determine if they intersect or not. Instructions and sample output are below: 
+C++ program that creates a Point/Rectangle class, taking 2 objects of the latter class to determine if they intersect or not. The project has no other contributors, and does not have current maintaining of the program. Instructions and sample output are below: 
 
-In this assignment, you will implement two classes.
+You will implement two classes.
 
 Point: A Point in a two dimensional plane has an integer x coordinate value and an integer y coordinate value.
 Rectangle: A Rectangle is a class that has three attributes: 1) Point type data that represent the top-left point of the rectangle, 2) integer length and 3) integer width.
