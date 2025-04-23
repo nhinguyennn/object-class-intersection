@@ -43,5 +43,5 @@ Sample Output:
 Co-ordinates of rectangle 1: (2,4), (2,2), (5,2), (5,4)
 
 Co-ordinates of rectangle 2: (4,3), (4,1), (7,1), (7,3)
- ```
 They intersect.
+ ```
