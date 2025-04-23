@@ -17,6 +17,7 @@ Bottom-right point
 Top-right point
  ```
 
+ ```
 Sample Input:
 
 x of rectangle 1: 2
@@ -34,13 +35,13 @@ y of rectangle 2: 3
 length of rectangle 2: 2
 
 width of rectangle 2: 3
+ ```
 
- 
-
+ ```
 Sample Output:
 
 Co-ordinates of rectangle 1: (2,4), (2,2), (5,2), (5,4)
 
 Co-ordinates of rectangle 2: (4,3), (4,1), (7,1), (7,3)
-
+ ```
 They intersect.
